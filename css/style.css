@@ -36,7 +36,7 @@ body {
           align-items: center;
   width: 320px;
   border-radius: 15px;
-  border: 3px solid #b4b4b4;
+  border: 2px solid #b4b4b4;
   overflow: hidden;
 }
 
@@ -80,6 +80,7 @@ body {
   border: 1px solid #b4b4b4;
   border-radius: 5px;
   color: #3d3a3a;
+  cursor: pointer;
 }
 
 .card__btn::first-letter {
